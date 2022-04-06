@@ -1,9 +1,7 @@
-// Variables used by Scriptable.
-// These must be at the very top of the file. Do not edit.
-// icon-color: red; icon-glyph: question;
 // Created by Max Forst
 // Feel free to take my code and modify it in any way you want.
 
+// Make sure that the name of this script is "Who's That Pokémon?" (with capitals, and no quotations)
 
 
 // If the script is running in a widget
